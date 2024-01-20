@@ -1,0 +1,9 @@
+POST  http://localhost:3000/get-blog
+Content-Type: application/json
+
+{
+    "blog_id":"TheArtofBudgetTravelExploretheWorldonaShoestringR9dv3"
+}
+
+
+
