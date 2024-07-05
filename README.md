@@ -1,3 +1,3 @@
 Team Members:
-Shiva Bollam
+Shiva Bollam and
 Sai Nikhil Guptha
